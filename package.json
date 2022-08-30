@@ -1,0 +1,19 @@
+{
+  "name": "source-sink-detection",
+  "version": "1.0.0",
+  "description": "Extension for detecting source and sink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemis-webonise/source-sink-detection.git"
+  },
+  "author": "Jemis Zadafiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemis-webonise/source-sink-detection/issues"
+  },
+  "homepage": "https://github.com/jemis-webonise/source-sink-detection#readme"
+}
